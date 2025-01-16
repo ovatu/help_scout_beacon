@@ -52,7 +52,7 @@ android {
     dependencies {
         testImplementation 'org.jetbrains.kotlin:kotlin-test'
         testImplementation 'org.mockito:mockito-core:5.0.0'
-        implementation "com.helpscout:beacon:6.0.0"
+        implementation "com.helpscout:beacon:5.3.0"
     }
 
     testOptions {
